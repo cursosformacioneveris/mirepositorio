@@ -1,1 +1,3 @@
-Este es un fichero de prueba
+Este es un fichero de prueba para el curso de guthub
+
+juan pablo
